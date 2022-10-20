@@ -1,3 +1,3 @@
 # Shipping
 
-Please see "Technical Assessment - Details.pptx" firstly due to you can find details about the solution.
+Please see "Technical Assessment - Details.pptx" firstly because you can find details about the solution.
