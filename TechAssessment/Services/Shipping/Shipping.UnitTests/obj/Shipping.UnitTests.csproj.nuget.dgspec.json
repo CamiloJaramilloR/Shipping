@@ -1,0 +1,275 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.UnitTests\\Shipping.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Application\\Shipping.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Application\\Shipping.Application.csproj",
+        "projectName": "Shipping.Application",
+        "projectPath": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Application\\Shipping.Application.csproj",
+        "packagesPath": "C:\\Users\\Cristhian_Jaramillo\\.nuget\\packages\\",
+        "outputPath": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cristhian_Jaramillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Domain\\Shipping.Domain.csproj": {
+                "projectPath": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Domain\\Shipping.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Domain\\Shipping.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Domain\\Shipping.Domain.csproj",
+        "projectName": "Shipping.Domain",
+        "projectPath": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Domain\\Shipping.Domain.csproj",
+        "packagesPath": "C:\\Users\\Cristhian_Jaramillo\\.nuget\\packages\\",
+        "outputPath": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cristhian_Jaramillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Infrastructure\\Shipping.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Infrastructure\\Shipping.Infrastructure.csproj",
+        "projectName": "Shipping.Infrastructure",
+        "projectPath": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Infrastructure\\Shipping.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Cristhian_Jaramillo\\.nuget\\packages\\",
+        "outputPath": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cristhian_Jaramillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Application\\Shipping.Application.csproj": {
+                "projectPath": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Application\\Shipping.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.UnitTests\\Shipping.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.UnitTests\\Shipping.UnitTests.csproj",
+        "projectName": "Shipping.UnitTests",
+        "projectPath": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.UnitTests\\Shipping.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Cristhian_Jaramillo\\.nuget\\packages\\",
+        "outputPath": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cristhian_Jaramillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Application\\Shipping.Application.csproj": {
+                "projectPath": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Application\\Shipping.Application.csproj"
+              },
+              "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Infrastructure\\Shipping.Infrastructure.csproj": {
+                "projectPath": "C:\\CodePersonal\\Shipping\\TechAssessment\\Services\\Shipping\\Shipping.Infrastructure\\Shipping.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

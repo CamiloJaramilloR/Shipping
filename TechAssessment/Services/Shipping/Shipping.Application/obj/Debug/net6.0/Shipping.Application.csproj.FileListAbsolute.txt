@@ -1,0 +1,15 @@
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\bin\Debug\net6.0\Shipping.Application.deps.json
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\bin\Debug\net6.0\Shipping.Application.dll
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\bin\Debug\net6.0\Shipping.Application.pdb
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\bin\Debug\net6.0\Shipping.Domain.dll
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\bin\Debug\net6.0\Shipping.Domain.pdb
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\obj\Debug\net6.0\Shipping.Application.csproj.AssemblyReference.cache
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\obj\Debug\net6.0\Shipping.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\obj\Debug\net6.0\Shipping.Application.AssemblyInfoInputs.cache
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\obj\Debug\net6.0\Shipping.Application.AssemblyInfo.cs
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\obj\Debug\net6.0\Shipping.Application.csproj.CoreCompileInputs.cache
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\obj\Debug\net6.0\Shipping.Application.csproj.CopyComplete
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\obj\Debug\net6.0\Shipping.Application.dll
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\obj\Debug\net6.0\refint\Shipping.Application.dll
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\obj\Debug\net6.0\Shipping.Application.pdb
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Application\obj\Debug\net6.0\ref\Shipping.Application.dll

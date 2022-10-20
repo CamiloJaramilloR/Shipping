@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Shipping.Application/1.0.0": {
+        "dependencies": {
+          "Shipping.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Shipping.Application.dll": {}
+        }
+      },
+      "Shipping.Domain/1.0.0": {
+        "runtime": {
+          "Shipping.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shipping.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shipping.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\bin\Debug\net6.0\Shipping.Infrastructure.deps.json
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\bin\Debug\net6.0\Shipping.Infrastructure.dll
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\bin\Debug\net6.0\Shipping.Infrastructure.pdb
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\bin\Debug\net6.0\Shipping.Application.dll
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\bin\Debug\net6.0\Shipping.Domain.dll
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\bin\Debug\net6.0\Shipping.Application.pdb
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\bin\Debug\net6.0\Shipping.Domain.pdb
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\obj\Debug\net6.0\Shipping.Infrastructure.csproj.AssemblyReference.cache
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\obj\Debug\net6.0\Shipping.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\obj\Debug\net6.0\Shipping.Infrastructure.AssemblyInfoInputs.cache
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\obj\Debug\net6.0\Shipping.Infrastructure.AssemblyInfo.cs
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\obj\Debug\net6.0\Shipping.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\obj\Debug\net6.0\Shipping.Infrastructure.csproj.CopyComplete
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\obj\Debug\net6.0\Shipping.Infrastructure.dll
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\obj\Debug\net6.0\refint\Shipping.Infrastructure.dll
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\obj\Debug\net6.0\Shipping.Infrastructure.pdb
+C:\CodePersonal\Shipping\TechAssessment\Services\Shipping\Shipping.Infrastructure\obj\Debug\net6.0\ref\Shipping.Infrastructure.dll
